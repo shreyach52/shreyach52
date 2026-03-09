@@ -5,7 +5,6 @@ I'm a **first-year Computer Science Engineering student** with a strong foundati
 
 ## 🧠 Technical Skills
 - **Programming Languages:** Python (comfortable), Java (DSA-focused)
-- **Core CS:** Data Structures & Algorithms (in progress)
 - **Domains of Interest:** Machine Learning, Cyber Security
 - **Other Skills:** Basic Prompt Engineering
 - **Tools:** Git, GitHub, VS Code
@@ -13,7 +12,6 @@ I'm a **first-year Computer Science Engineering student** with a strong foundati
 
 
 ## 🚀 What I'm Currently Working On
-- Strengthening **DSA using Java**
 - Building logic and problem-solving skills
 - Exploring **Machine Learning fundamentals**
 - Practicing clean and structured coding
