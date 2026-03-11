@@ -4,7 +4,7 @@ I'm a **first-year Computer Science Engineering student** with a strong foundati
 
 
 ## 🧠 Technical Skills
-- **Programming Languages:** Python (comfortable), Java (DSA-focused)
+- **Programming Languages:** Python (comfortable)
 - **Domains of Interest:** Machine Learning, Cyber Security
 - **Other Skills:** Basic Prompt Engineering
 - **Tools:** Git, GitHub, VS Code
