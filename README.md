@@ -1,42 +1,17 @@
-# Hi, I'm Shreya C H 
+# Hi, I'm Shreya 👋
 
-I'm a **first-year Computer Science Engineering student** with a strong foundation in **Python** and a growing interest in **Machine Learning** and **Cyber Security**. I’m eager, curious, and always looking to deepen my understanding of core computer science concepts through hands-on practice.
+CSE student interested in Machine Learning and Backend Development.
+I enjoy working with Python and solving problems.
+Currently learning and building projects 🚀
 
+Connect with Me: 
 
-##  Technical Skills
-- **Programming Languages:** Python (comfortable)
-- **Domains of Interest:** Machine Learning, Cyber Security
-- **Other Skills:** Basic Prompt Engineering
-- **Tools:** Git, GitHub, VS Code
+github: https://github.com/shreyach52
 
+linkedin: https://www.linkedin.com/in/shreya-c-h-7871623a4
 
-
-##  What I'm Currently Working On
-- Building logic and problem-solving skills
-- Exploring **Machine Learning fundamentals**
-- Practicing clean and structured coding
+Open to collaborations and learning opportunities!
 
 
-
-##  Interests & Goals
-- Apply Python to real-world **ML projects**
-- Learn the fundamentals of **Cyber Security**
-- Build strong core CS knowledge for long-term growth
-- Contribute to meaningful and practical projects
-
-
-
-##  Projects
-- **Expense Tracker** – A beginner-friendly project combining Python logic with a simple web interface  
-*(More projects coming as I continue learning and building!)*
-
-
-
-## 📫 Connect With Me
-- GitHub: https://github.com/shreyach52
-
-
-
- *Always learning, always building, and excited about the journey ahead.*
 
 
