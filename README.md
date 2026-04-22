@@ -1,6 +1,6 @@
 # Hi, I'm Shreya 👋
 
-CSE student interested in Machine Learning and Backend Development.
+CSE student interested in Machine Learning and Cyber security.
 I enjoy working with Python and solving problems.
 Currently learning and building projects 🚀
 
