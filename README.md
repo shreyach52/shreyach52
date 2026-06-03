@@ -1,6 +1,5 @@
 # Hi, I'm Shreya 👋
-MERN Stack developer,
-CSE student currently focusing on Machine Learning and AI.
+MERN Stack developer, currently focusing on Machine Learning and AI.
 
 Connect with Me: 
 
