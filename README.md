@@ -10,7 +10,7 @@
         /  /  |  \  \
           /   |   \
 
-this was supposed to look like a spider btw
+this was supposed to be a spider btw
            
 ````
 
